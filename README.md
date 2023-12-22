@@ -79,7 +79,7 @@ MIT License: https://choosealicense.com/licenses/mit/
 
 ## Author
 
-Your Name: https://github.com/swaralisurve
+Swarali Surve: https://github.com/swaralisurve
 
 ## Acknowledgments
 
